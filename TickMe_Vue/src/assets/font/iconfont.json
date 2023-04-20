@@ -1,0 +1,23 @@
+{
+  "id": "3373939",
+  "name": "游戏banner动画",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "991960",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "5387913",
+      "name": "按钮-箭头向右_o",
+      "font_class": "anniu-jiantouxiangyou_o",
+      "unicode": "eb8c",
+      "unicode_decimal": 60300
+    }
+  ]
+}

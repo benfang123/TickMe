@@ -1,0 +1,55 @@
+<svg width="600.000000" height="600.000000" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<rect id="Chart 2" rx="18.000000" width="600.000000" height="600.000000" fill="#FFFFFF"/>
+	<g clip-path="url(#clip3_79)">
+		<path id="Ellipse 11" d="M502.555 276.983C498.884 243.687 487.307 212.994 469.834 186.68C449.247 155.677 421.681 132.093 390.591 116.65C360.45 101.678 328.4 94.8148 296.918 95.269C291.403 95.3485 287.221 100.115 287.561 105.62L298.918 289.554C299.259 295.066 304.003 299.259 309.516 298.918L493.43 287.562C498.943 287.222 503.161 282.473 502.555 276.983Z" fill-rule="evenodd" fill="url(#paint_linear_3_93_0)"/>
+		<path id="Ellipse 13" d="M310.238 472.885C358.108 469.929 400.247 447.85 429.68 414.543C461.439 378.604 475.624 333.195 472.885 288.831L299.534 299.534L310.238 472.885Z" fill-rule="evenodd" fill="url(#paint_linear_3_94_0)"/>
+		<path id="Ellipse 14" d="M126.184 310.238C129.14 358.108 151.219 400.247 184.526 429.68C220.465 461.439 265.874 475.624 310.238 472.885L299.534 299.534L126.184 310.238Z" fill-rule="evenodd" fill="url(#paint_linear_3_95_0)"/>
+		<path id="Ellipse 15" d="M288.831 126.184C257.252 128.134 228.167 138.406 203.578 154.734C177.216 172.239 157.164 195.677 144.033 222.112C129.956 250.452 124.309 280.777 126.184 310.238L299.534 299.534L288.831 126.184Z" fill-rule="evenodd" fill="url(#paint_linear_3_96_0)"/>
+		<g filter="url(#filter_3_97_dd)">
+			<circle id="Ellipse 12" cx="300.296265" cy="299.842712" r="105.000000" transform="rotate(9.46861 300.296 299.843)" fill="#FFFFFF"/>
+		</g>
+		<circle id="Ellipse 16" cx="300.968140" cy="299.579468" r="90.000000" transform="rotate(9.46861 300.968 299.579)" stroke="url(#paint_linear_3_98_0)" stroke-dasharray="0 1 14 0 1 14"/>
+		<path id="􀄬" d="M282.041 293.059L290.425 284.509C291.056 283.828 292.035 283.861 292.649 284.509L301.017 293.059C301.315 293.357 301.481 293.789 301.481 294.154C301.481 295.034 300.884 295.632 300.021 295.632C299.589 295.632 299.273 295.482 298.991 295.2L295.521 291.631L292.865 288.543L293.015 292.378L293.015 313.711C293.015 314.591 292.4 315.205 291.537 315.205C290.657 315.205 290.043 314.591 290.043 313.711L290.043 292.378L290.209 288.543L287.536 291.631L284.083 295.2C283.801 295.482 283.469 295.632 283.037 295.632C282.174 295.632 281.576 295.034 281.576 294.154C281.576 293.789 281.759 293.357 282.041 293.059ZM319.959 306.141L311.592 314.724C310.944 315.388 309.981 315.371 309.367 314.724L301 306.141C300.701 305.858 300.519 305.427 300.519 305.045C300.519 304.165 301.133 303.584 301.996 303.584C302.411 303.584 302.743 303.717 303.025 303.999L306.479 307.568L309.151 310.673L308.985 306.838L308.985 285.505C308.985 284.642 309.6 284.011 310.479 284.011C311.343 284.011 311.957 284.642 311.957 285.505L311.957 306.838L311.808 310.673L314.48 307.568L317.934 303.999C318.216 303.717 318.531 303.584 318.963 303.584C319.826 303.584 320.424 304.165 320.424 305.045C320.424 305.427 320.258 305.858 319.959 306.141Z" fill="url(#paint_linear_26_6_0)"/>
+	</g>
+	<defs>
+		<filter id="filter_3_97_dd" x="185.279907" y="188.826324" width="230.032715" height="230.032776" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="3.33333"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<clipPath id="clip3_79">
+			<rect id="Chart 2" rx="18.000000" width="600.000000" height="600.000000" fill="white"/>
+		</clipPath>
+		<linearGradient id="paint_linear_3_93_0" x1="299.534668" y1="95.269775" x2="299.534668" y2="503.799316" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF9364"/>
+			<stop offset="1.000000" stop-color="#F25F33"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_3_94_0" x1="299.534576" y1="125.854279" x2="299.534576" y2="473.214691" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#B09FFF"/>
+			<stop offset="1.000000" stop-color="#8D79F6"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_3_95_0" x1="299.534576" y1="125.854279" x2="299.534576" y2="473.214691" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFD572"/>
+			<stop offset="1.000000" stop-color="#FEBD38"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_3_96_0" x1="299.534576" y1="125.854279" x2="299.534576" y2="473.214691" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#99FFA3"/>
+			<stop offset="1.000000" stop-color="#68EE76"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_3_98_0" x1="300.968140" y1="209.579483" x2="300.968140" y2="389.579468" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF9364"/>
+			<stop offset="1.000000" stop-color="#F25F33"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_26_6_0" x1="301.000000" y1="279.000000" x2="301.000000" y2="320.000000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF9364"/>
+			<stop offset="1.000000" stop-color="#F25F33"/>
+		</linearGradient>
+	</defs>
+</svg>
